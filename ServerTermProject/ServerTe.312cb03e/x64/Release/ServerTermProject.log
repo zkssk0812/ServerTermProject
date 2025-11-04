@@ -1,0 +1,11 @@
+﻿  GameServer.cpp
+C:\Users\김정호\Desktop\Test\ServerTermProject\GameServer.h(24,7): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+  (소스 파일 'GameServer.cpp'을(를) 컴파일하는 중)
+      C:\Users\김정호\Desktop\Test\ServerTermProject\GameServer.h(24,7):
+      이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+  
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 17 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  ServerTermProject.vcxproj -> C:\Users\김정호\Desktop\Test\ServerTermProject\x64\Release\ServerTermProject.exe
